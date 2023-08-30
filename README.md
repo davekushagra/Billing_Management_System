@@ -6,9 +6,6 @@ The Billing Management System is a C++ project that enables users to manage cust
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
