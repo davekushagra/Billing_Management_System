@@ -1,17 +1,20 @@
-# Billing Management System
+# 💰 Billing Management System
 
 The Billing Management System is a C++ project that enables users to manage customer information, create orders, and generate bills for purchased items.
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
+- [🚀 Features](#features)
+- [📖 Usage](#usage)
+- [🛠️ Installation](#installation)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
 
 ## Introduction
 
 The Billing Management System project is designed to assist businesses in managing customer details and generating bills for their purchases. It provides a user-friendly command-line interface for creating customer profiles, entering orders, and viewing generated bills.
 
-## Features
+## 🚀 Features
 
 - **Customer Management:**
   - Input customer information including name, ID, phone number, and address.
@@ -24,7 +27,7 @@ The Billing Management System project is designed to assist businesses in managi
 - **Bill Generation:**
   - View bills that display order details and calculated total amounts.
 
-## Usage
+## 📖 Usage
 
 1. **Creating Customer Profile:**
    - Run the program and select option 1.
@@ -40,3 +43,11 @@ The Billing Management System project is designed to assist businesses in managi
    - Choose option 3 to view a customer's details and their order's bill.
    - The total amount for each order will be displayed.
 
+## 🛠️ Installation
+
+1. Clone the repository:
+https://github.com/davekushagra/Billing_Management_System.git
+
+## 🤝 Contributing
+
+Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
